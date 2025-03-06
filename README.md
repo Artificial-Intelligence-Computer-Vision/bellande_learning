@@ -1,9 +1,13 @@
 # 📦 Bellande Learning API
 
-# BSP(Bellande Learning) Algorithm API
+# BL(Bellande Learning) Algorithm API
+## Bellande Probability Calculations
+- https://git.bellande-technologies.com/BRSRI/bellande_probability
+- https://github.com/Robotics-Sensors/bellande_probability
+- https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center/bellande_probability
 
 # Check Out Research Organization for open-source/semi-open-source API
-- https://robotics-sensors.github.io
+- bellande-ai-computer-vision-research-innovation-center.org
 - Check out website for more information avaliable open-source API 
 
 ## License
