@@ -5,19 +5,22 @@
 - https://git.bellande-technologies.com/BAICVRI/bellande_probability
 - https://github.com/Robotics-Sensors/bellande_probability
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center/bellande_probability
+- https://bitbucket.org/Bellande-Robotics-Sensors/bellande_probability
 
 ## Bellande Tree Node Calculations
 - https://git.bellande-technologies.com/BAICVRI/bellande_tree_node
 - https://github.com/Artificial-Intelligence-Computer-Vision/bellande_tree_node
 - https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center/bellande_tree_node
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/bellande_tree_node
 
 ## Bellande Control System Calculations
 - https://git.bellande-technologies.com/BAICVRI/bellande_control_system
 - https://github.com/Artificial-Intelligence-Computer-Vision/bellande_control_system
 - https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center/bellande_control_system
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/bellande_control_system
 
 # Check Out Research Organization for open-source/semi-open-source API
-- bellande-ai-computer-vision-research-innovation-center.org
+- https://bellande-ai-computer-vision-research-innovation-center.org
 - Check out website for more information avaliable open-source API 
 
 ## License
