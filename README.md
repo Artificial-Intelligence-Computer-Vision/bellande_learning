@@ -1,5 +1,9 @@
 # 📦 Bellande Learning API
 
+![Bellande learning API](./bellande_learning_api.png)
+
+![Bellande learning API GIF](./bellande_learning_api_gif.gif)
+
 # BL(Bellande Learning) Algorithm API
 ## Bellande Probability Calculations
 - https://git.bellande-technologies.com/BAICVRI/bellande_probability
