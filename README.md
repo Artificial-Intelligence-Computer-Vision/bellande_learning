@@ -1,8 +1,15 @@
 # 📦 Bellande Learning API
+- Use Bellande API's to get the result below
 
-![Bellande learning API](./bellande_learning_api.png)
+# Bellande Application 
+- ```One of the features of Bellande Application is to install API's and use API locally without internet for Robotic Purposes or other Applications```
 
-![Bellande learning API GIF](./bellande_learning_api_gif.gif)
+![Bellande Application](./bellande_application_api.png)
+
+- https://git.bellande-technologies.com/BAICVRI/bellande_learning_api
+- https://github.com/Artificial-Intelligence-Computer-Vision/bellande_learning_api
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center/bellande_learning_api
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/bellande_learning_api
 
 # BL(Bellande Learning) Algorithm API
 ## Bellande Probability Calculations
@@ -23,9 +30,9 @@
 - https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center/bellande_control_system
 - https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/bellande_control_system
 
-# Check Out Research Organization for open-source/semi-open-source API
-- https://bellande-ai-computer-vision-research-innovation-center.org
-- Check out website for more information avaliable open-source API 
+![Bellande learning API](./bellande_learning_api.png)
+
+![Bellande learning API GIF](./bellande_learning_api_gif.gif)
 
 ## License
 This Algorithm or Models is distributed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), see [LICENSE](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_learning/blob/main/LICENSE) and [NOTICE](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_learning/blob/main/LICENSE) for more information.
